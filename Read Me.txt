@@ -1,0 +1,6 @@
+Creating a single page website with a navigation bar on the top that shows a logo
+that when you click it, it sends you back to the top of the main page.
+
+Need to configure the button to have three lines and create a drop-down nav bar
+when clicked.
+Need to add text to the page
